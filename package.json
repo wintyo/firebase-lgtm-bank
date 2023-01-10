@@ -9,6 +9,8 @@
   },
   "devDependencies": {
     "firebase-tools": "^11.20.0",
-    "nuxt": "3.0.0"
+    "nuxt": "3.0.0",
+    "pug": "^3.0.2",
+    "sass": "^1.57.1"
   }
 }
