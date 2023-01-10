@@ -8,6 +8,7 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "firebase-tools": "^11.20.0",
     "nuxt": "3.0.0"
   }
 }
